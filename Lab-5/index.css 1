@@ -1,0 +1,42 @@
+body {
+     font-family: "Palatino Linotype", sans-serif;
+	 font-size:16px;
+	 line-height:1.5;
+	 background: @eef;
+	 text-align:justify;
+}
+header {
+       font-family: 'Dela Gothic One', cursive;
+	   font-size:72px;
+	   color:yellow;
+	   background-image:url("E.jfif");
+	   	 text-align:center;
+		 text-transform:uppercase;
+		 
+
+	   
+}
+img{
+	width :12.5%;
+	float:right;
+	slear:both;
+}
+
+article, aside, footer, header, menu, nav, section {
+display: block;
+}
+article,section {
+	margin:20px;
+}
+text{
+	margin:5px;
+}
+images, nav, text , aside{
+	padding=1;
+}
+
+footer{
+	text-align:center;
+	color:white;
+	background:gray;
+}
